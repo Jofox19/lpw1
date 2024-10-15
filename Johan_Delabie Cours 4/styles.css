@@ -1,0 +1,32 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    color: #003366; /* Bleu foncé */
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+section {
+    border: 2px solid #dcdcdc; /* Bordure gris clair */
+    padding: 20px;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+}
